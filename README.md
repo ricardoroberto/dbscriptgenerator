@@ -23,22 +23,36 @@ It's very simple:
     
 {
 "Server": "SERVER_NAME",
-"DataBaseName": "DATABASE_NAME"
+
+"DataBaseName": "DATABASE_NAME",
+
 "Username": "USER_NAME",
+
 "Password": "PASSWORD",
+
 "OneFilePerObject": true,
+
 "Filename": "NAME_OF_FILE.sql",
+
 "Items":
+
 [
+
 { "Name": "TABLE_NAME1", "Type": 0, "ScriptData": true},
+
 { "Name": "TABLE_NAME2", "Type": 0, "ScriptData": false},
+
 { "Name": "PROCEDURE_NAME1", "Type": 1, "ScriptData": true}
+
 ]
+
 }
 
 4) Open the command prompt (cmd.exe)
 
+
 5) Run the DbGenerator command db.json
+
 
 
 *** ATTENTION ***
