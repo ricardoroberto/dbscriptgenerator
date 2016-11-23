@@ -1,3 +1,4 @@
+
 # DB Script Generator
 
 A console application and cmd-let (not tested yet) who generates sql script with/without data.
@@ -14,8 +15,11 @@ We schedule a daily script to be created in a network folder (with backup).
 It's very simple:
 
 1) Download the application.
+
 2) Install on a computer with the SQL Server client installed.
+
 3) Edit the bd.json configuration file:
+
     
 {
 "Server": "SERVER_NAME",
@@ -33,7 +37,9 @@ It's very simple:
 }
 
 4) Open the command prompt (cmd.exe)
+
 5) Run the DbGenerator command db.json
+
 
 *** ATTENTION ***
 
