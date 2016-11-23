@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBScript", "DBScript\DBScript.csproj", "{BDB3570B-F499-4BE8-90B3-8E4EA6CE038D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBGenerator", "DbGenerator\DBGenerator.csproj", "{BD2424F4-D383-4B3F-BE30-649FE1593A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB3570B-F499-4BE8-90B3-8E4EA6CE038D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB3570B-F499-4BE8-90B3-8E4EA6CE038D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB3570B-F499-4BE8-90B3-8E4EA6CE038D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB3570B-F499-4BE8-90B3-8E4EA6CE038D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2424F4-D383-4B3F-BE30-649FE1593A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2424F4-D383-4B3F-BE30-649FE1593A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2424F4-D383-4B3F-BE30-649FE1593A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2424F4-D383-4B3F-BE30-649FE1593A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
