@@ -10,5 +10,5 @@ namespace DBGenerator
     {
         void ShowMessage(string message);
         void ShowParameterError();
-    }
+    } 
 }
