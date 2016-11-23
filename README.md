@@ -1,4 +1,5 @@
 
+
 # DB Script Generator
 
 A console application and cmd-let (not tested yet) who generates sql script with/without data.
@@ -22,6 +23,7 @@ It's very simple:
 
     
 {
+
     "Server": "SERVER_NAME",
 
     "DataBaseName": "DATABASE_NAME",
