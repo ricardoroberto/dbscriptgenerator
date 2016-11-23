@@ -22,29 +22,29 @@ It's very simple:
 
     
 {
-"Server": "SERVER_NAME",
+    "Server": "SERVER_NAME",
 
-"DataBaseName": "DATABASE_NAME",
+    "DataBaseName": "DATABASE_NAME",
 
-"Username": "USER_NAME",
+    "Username": "USER_NAME",
 
-"Password": "PASSWORD",
+    "Password": "PASSWORD",
 
-"OneFilePerObject": true,
+    "OneFilePerObject": true,
 
-"Filename": "NAME_OF_FILE.sql",
+    "Filename": "NAME_OF_FILE.sql",
 
-"Items":
+    "Items":
 
-[
+    [
 
-{ "Name": "TABLE_NAME1", "Type": 0, "ScriptData": true},
+        { "Name": "TABLE_NAME1", "Type": 0, "ScriptData": true},
 
-{ "Name": "TABLE_NAME2", "Type": 0, "ScriptData": false},
+        { "Name": "TABLE_NAME2", "Type": 0, "ScriptData": false},
 
-{ "Name": "PROCEDURE_NAME1", "Type": 1, "ScriptData": true}
+        { "Name": "PROCEDURE_NAME1", "Type": 1, "ScriptData": true}
 
-]
+    ]
 
 }
 
