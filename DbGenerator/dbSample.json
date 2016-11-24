@@ -1,0 +1,12 @@
+﻿{
+  "Server": "SERVER",
+  "DataBaseName": "databaseName",
+  "Username": "userName",
+  "Password": "password",
+  "Items": [
+    {
+      "Nome": "AlertaDiretriz",
+      "Tipo": 0
+    }
+  ]
+}
